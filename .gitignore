@@ -27,3 +27,6 @@ contracts/cache/
 
 # IDE 설정 (TODO(mock 피드백): 노션 .gitignore 목록에 없음)
 .idea/
+
+# Sepolia local encrypted account store
+.secrets/
